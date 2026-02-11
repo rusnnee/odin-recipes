@@ -1,0 +1,38 @@
+*{
+        border: 2px solid blue;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+img{
+    display: block;
+    height: 400px;
+    width: auto;
+    margin: auto; 
+}
+
+.home {
+    display: block;
+    text-align: center;
+    padding: 12px;
+    background-color: greenyellow;
+    width: 100px;
+}
+
+.recipe.name{
+    display: block;
+    height: auto;
+    width: 300px;
+}
+
+.container{
+    padding: 10px;
+    display: flex; 
+    justify-content: space-around;
+}
